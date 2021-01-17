@@ -1,2 +1,8 @@
 #.class files need not to be tracked
 *.class
+
+*.project
+
+*.setting
+
+*/bin/
