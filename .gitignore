@@ -1,0 +1,2 @@
+#.class files need not to be tracked
+*.class
